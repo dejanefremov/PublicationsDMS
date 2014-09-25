@@ -1,0 +1,13 @@
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\PublicationsDMS.Search.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\PublicationsDMS.Search.pdb
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\itextsharp.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\Lucene.Net.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\itextsharp.xml
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\Lucene.Net.pdb
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Release\Lucene.Net.xml
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\obj\Release\PublicationsDMS.Search.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\obj\Release\PublicationsDMS.Search.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\obj\Release\PublicationsDMS.Search.pdb

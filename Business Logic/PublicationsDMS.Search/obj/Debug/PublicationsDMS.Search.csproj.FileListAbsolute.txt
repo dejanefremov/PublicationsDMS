@@ -1,0 +1,26 @@
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\PublicationsDMS.Search.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\PublicationsDMS.Search.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\itextsharp.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\Lucene.Net.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\itextsharp.xml
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\Lucene.Net.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\bin\Debug\Lucene.Net.xml
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\obj\Debug\PublicationsDMS.Search.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\obj\Debug\PublicationsDMS.Search.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Search\obj\Debug\PublicationsDMS.Search.pdb
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\PublicationsDMS.Search.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\PublicationsDMS.Search.pdb
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\itextsharp.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\Lucene.Net.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\itextsharp.xml
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\Lucene.Net.pdb
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\bin\Debug\Lucene.Net.xml
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\obj\Debug\PublicationsDMS.Search.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\obj\Debug\PublicationsDMS.Search.dll
+D:\Projects\PublicationsDMS\Business Logic\PublicationsDMS.Search\obj\Debug\PublicationsDMS.Search.pdb

@@ -1,0 +1,45 @@
+D:\Projects\PublicationsDMS\Domain\obj\Debug\PublicationsDMS.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\Domain\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\PublicationsDMS.Domain.dll.config
+D:\Projects\PublicationsDMS\Domain\bin\Debug\PublicationsDMS.Domain.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\PublicationsDMS.Domain.pdb
+D:\Projects\PublicationsDMS\Domain\bin\Debug\AutoMapper.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\Entities.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\EntityFramework.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\Entities.pdb
+D:\Projects\PublicationsDMS\Domain\bin\Debug\AutoMapper.xml
+D:\Projects\PublicationsDMS\Domain\bin\Debug\EntityFramework.xml
+D:\Projects\PublicationsDMS\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PublicationsDMS\Domain\obj\Debug\PublicationsDMS.Domain.dll
+D:\Projects\PublicationsDMS\Domain\obj\Debug\PublicationsDMS.Domain.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Domain.dll.config
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Domain.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Domain.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\AutoMapper.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\EntityFramework.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\AutoMapper.xml
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\EntityFramework.xml
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\obj\Debug\PublicationsDMS.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\obj\Debug\PublicationsDMS.Domain.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Domain\obj\Debug\PublicationsDMS.Domain.pdb
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Domain.dll.config
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Domain.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Domain.pdb
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\AutoMapper.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\EntityFramework.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\AutoMapper.xml
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\EntityFramework.xml
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\obj\Debug\PublicationsDMS.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\obj\Debug\PublicationsDMS.Domain.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\obj\Debug\PublicationsDMS.Domain.pdb

@@ -1,0 +1,4 @@
+D:\Projects\PublicationsDMS\Entities\bin\Debug\Entities.dll
+D:\Projects\PublicationsDMS\Entities\bin\Debug\Entities.pdb
+D:\Projects\PublicationsDMS\Entities\obj\Debug\Entities.dll
+D:\Projects\PublicationsDMS\Entities\obj\Debug\Entities.pdb

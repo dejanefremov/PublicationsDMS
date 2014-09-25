@@ -1,0 +1,35 @@
+﻿<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Publications DMS</a>
+    </div>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="javascript:void(0);" data-ng-click="saveDocument()">Save</a></li>
+            <li><a href="/#/public/{{parentFolder == null ? null : parentFolder.ID}}">Cancel</a></li>
+        </ul>
+    </div>
+    </div>
+</nav>
+
+<article>
+    <h3 class="page-header">Document details</h3>
+    
+    <form class="form-horizontal" role="form">
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Title</label>
+            <div class="col-sm-10"><strong><label id="documentTitle" style="max-width: 400px;" class="form-control">{{currentDocument.Title}}</label></strong></div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Description</label>
+            <div class="col-sm-10"><label id="documentDescription" style="max-width: 400px;" class="form-control">{{currentDocument.Description}}</label></div>
+        </div>
+    </form>
+</article>

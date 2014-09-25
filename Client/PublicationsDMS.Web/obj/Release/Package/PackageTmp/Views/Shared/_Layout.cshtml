@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Publications DMS</title>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/jquery")
+
+    @Styles.Render("~/Content/bootstrap")
+    @Styles.Render("~/Content/css")
+
+    @Scripts.Render("~/bundles/BootstrapScript")
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+                    

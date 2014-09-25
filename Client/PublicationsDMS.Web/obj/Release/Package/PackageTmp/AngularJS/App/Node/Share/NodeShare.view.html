@@ -1,0 +1,67 @@
+﻿<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Publications DMS</a>
+    </div>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="javascript:void(0);" data-ng-click="saveUsers()">Save</a></li>
+            <li><a href="/#/list/{{parentNodeID}}">Cancel</a></li>
+        </ul>
+    </div>
+    </div>
+</nav>
+
+<article id="node-share-article">
+    <h3 class="page-header">Share {{node.TypeName}}</h3>
+    
+    <form class="form-horizontal" role="form" data-ng-submit="addUser()">
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Title</label>
+            <div class="col-sm-10"><label id="parentFolderTitle" style="max-width: 400px;" class="form-control">{{node.Title}}</label></div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Path</label>
+            <div class="col-sm-10">
+                <ol class="breadcrumb">
+                    <li>Home</li>
+                    <li data-ng-repeat="breadcrumbNode in breadcrumbNodes">{{breadcrumbNode.Title}}</li>
+                    <li>{{node.Title}}</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="folderName" class="col-sm-2 control-label">Add email</label>
+            <div class="col-sm-4">
+                <input id="txtAddEmail" type="email" data-ng-model="emailToAdd" class="form-control" placeholder="Email" required autofocus style="max-width: 400px;" />
+            </div>
+            <div class="col-sm-6">
+                <button type="submit" class="btn btn-default">Add</button>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Invited emails</label>
+            <div class="col-sm-10">
+                <ul class="list-group">
+                    <li data-ng-repeat="user in users"
+                        data-uid="{{user.UserID}}"
+                        class="list-group-item">
+                        
+                        {{user.Email}}
+                        
+                        <button type="button" class="btn btn-default" data-ng-click="removeUser(user.UserID)">Remove</button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </form>
+</article>

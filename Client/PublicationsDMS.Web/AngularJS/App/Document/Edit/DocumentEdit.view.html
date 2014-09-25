@@ -1,0 +1,46 @@
+﻿<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Publications DMS</a>
+    </div>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="javascript:document.getElementById('btnSaveDocument').click();">Save</a></li>
+            <li><a href="/#/list/{{parentFolder == null ? null : parentFolder.ID}}">Cancel</a></li>
+        </ul>
+    </div>
+    </div>
+</nav>
+
+<article>
+    <h3 class="page-header">Document details</h3>
+    
+    <form class="form-horizontal" role="form" data-ng-submit="saveDocument()">
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Parent folder</label>
+            <div class="col-sm-10"><label id="parentFolderTitle" style="max-width: 400px;" class="form-control">{{parentFolder.Title}}</label></div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Title</label>
+            <div class="col-sm-10">
+                <input id="documentTitle" type="text" data-ng-model="currentDocument.Title" class="form-control" placeholder="Title" required style="max-width: 400px;" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Description</label>
+            <div class="col-sm-10">
+                <input id="documentDescription" type="text" data-ng-model="currentDocument.Description" class="form-control" placeholder="Description" style="max-width: 400px;" />
+            </div>
+        </div>
+
+        <button id="btnSaveDocument" hidden type="submit">Save</button>
+    </form>
+</article>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B82AA948-AC3D-4729-AAF0-AA3A904B98C1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PublicationsDMS.Services</RootNamespace>
+    <AssemblyName>PublicationsDMS.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac">
+      <HintPath>..\..\packages\Autofac.3.3.0\lib\net40\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper">
+      <HintPath>..\..\packages\AutoMapper.3.1.1\lib\net40\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper.Net4">
+      <HintPath>..\..\packages\AutoMapper.3.1.1\lib\net40\AutoMapper.Net4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration\AppSettings.cs" />
+    <Compile Include="Registration\AutoMapperConverters\DataItemConverter.cs" />
+    <Compile Include="Registration\AutoMapperConverters\DocumentConverter.cs" />
+    <Compile Include="Registration\AutoMapperConverters\FolderConverter.cs" />
+    <Compile Include="Registration\StorageModule.cs" />
+    <Compile Include="Registration\SearchModule.cs" />
+    <Compile Include="Registration\DomainModule.cs" />
+    <Compile Include="Registration\AutoMapperInitializer.cs" />
+    <Compile Include="Services\DocumentService.cs" />
+    <Compile Include="Services\FolderService.cs" />
+    <Compile Include="Services\NodeService.cs" />
+    <Compile Include="Services\PermissionService.cs" />
+    <Compile Include="Services\UserService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data Access\PublicationsDMS.Domain\PublicationsDMS.Domain.csproj">
+      <Project>{19fa202f-3eb8-4fc4-aa36-818dffe51c1b}</Project>
+      <Name>PublicationsDMS.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Entities\PublicationsDMS.Entities\PublicationsDMS.Entities.csproj">
+      <Project>{5a072f4a-6d38-49e8-bf0d-de92f45f1da9}</Project>
+      <Name>PublicationsDMS.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Data Access\PublicationsDMS.Storage\PublicationsDMS.Storage.csproj">
+      <Project>{031f0b13-d5f6-4445-8a46-1a2395e60520}</Project>
+      <Name>PublicationsDMS.Storage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PublicationsDMS.Search\PublicationsDMS.Search.csproj">
+      <Project>{eb98faa4-4563-4e3a-b901-948de128abe3}</Project>
+      <Name>PublicationsDMS.Search</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\packages\AutoMapper.3.1.1\lib\net40\AutoMapper.Net4.dll">
+      <Link>AutoMapper.Net4.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

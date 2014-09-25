@@ -1,0 +1,13 @@
+D:\Projects\PublicationsDMS\Entities\bin\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\Entities\bin\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\Entities\obj\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\Entities\obj\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Entities\bin\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Entities\bin\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Entities\obj\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Entities\obj\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\Entities\PublicationsDMS.Entities\bin\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\Entities\PublicationsDMS.Entities\bin\Debug\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\Entities\PublicationsDMS.Entities\obj\Debug\PublicationsDMS.Entities.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\Entities\PublicationsDMS.Entities\obj\Debug\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\Entities\PublicationsDMS.Entities\obj\Debug\PublicationsDMS.Entities.pdb

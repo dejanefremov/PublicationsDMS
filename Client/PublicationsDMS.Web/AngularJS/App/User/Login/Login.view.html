@@ -1,0 +1,32 @@
+﻿<article class="login-page-article">
+    <div class="container login-page-container">
+
+      <form class="login-page-form" role="form"  data-ng-submit="Login()">
+        <h2 class="page-header">Welcome to Publications DMS</h2>
+        <input type="email" data-ng-model="loginEmail" class="form-control" placeholder="Email address" required autofocus>
+          <br />
+        <input type="password" data-ng-model="loginPassword" class="form-control" placeholder="Password" required>
+          <hr />
+        <button class="btn btn-lg btn-default btn-block" type="submit">Sign in</button>
+      </form>
+
+        <hr />
+
+        <div class="row">
+            <div class="col-lg-6 login-page-column">
+                To test application as admin user, please login with following credentials:
+                <br /><br />
+                Email: Admin@outlook.com<br />
+                Pass:  Admin
+            </div>
+
+            <div class="col-lg-6 login-page-column">
+                To test application as end user, please login with following credentials:
+                <br /><br />
+                Email: EndUser@outlook.com<br />
+                Pass:  EndUser
+            </div>
+        </div>
+
+    </div>
+</article>

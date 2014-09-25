@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\Published\PublicationsDMS\2014_08_10\Web</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AngularJS/App/Document/Details/DocumentDetails.controller.js">
+      <publishTime>07/30/2014 14:01:44</publishTime>
+    </File>
+    <File Include="AngularJS/App/Document/Details/DocumentDetails.view.html">
+      <publishTime>07/08/2014 12:52:30</publishTime>
+    </File>
+    <File Include="AngularJS/App/Document/Edit/DocumentEdit.controller.js">
+      <publishTime>07/30/2014 14:04:48</publishTime>
+    </File>
+    <File Include="AngularJS/App/Document/Edit/DocumentEdit.view.html">
+      <publishTime>07/08/2014 10:54:21</publishTime>
+    </File>
+    <File Include="AngularJS/App/Document/Search/DocumentSearch.controller.js">
+      <publishTime>07/30/2014 16:25:44</publishTime>
+    </File>
+    <File Include="AngularJS/App/Document/Search/DocumentSearch.view.html">
+      <publishTime>08/10/2014 10:27:52</publishTime>
+    </File>
+    <File Include="AngularJS/App/Document/Upload/DocumentUpload.controller.js">
+      <publishTime>07/30/2014 16:25:09</publishTime>
+    </File>
+    <File Include="AngularJS/App/Document/Upload/DocumentUpload.view.html">
+      <publishTime>06/17/2014 16:04:42</publishTime>
+    </File>
+    <File Include="AngularJS/App/Folder/Edit/FolderEdit.controller.js">
+      <publishTime>07/30/2014 14:20:21</publishTime>
+    </File>
+    <File Include="AngularJS/App/Folder/Edit/FolderEdit.view.html">
+      <publishTime>07/31/2014 17:43:28</publishTime>
+    </File>
+    <File Include="AngularJS/App/Node/List/NodeList.controller.js">
+      <publishTime>07/30/2014 15:39:07</publishTime>
+    </File>
+    <File Include="AngularJS/App/Node/List/NodeList.view.html">
+      <publishTime>08/06/2014 17:01:49</publishTime>
+    </File>
+    <File Include="AngularJS/App/Node/PublicList/PublicNodeList.controller.js">
+      <publishTime>08/06/2014 16:40:50</publishTime>
+    </File>
+    <File Include="AngularJS/App/Node/PublicList/PublicNodeList.view.html">
+      <publishTime>08/06/2014 17:01:19</publishTime>
+    </File>
+    <File Include="AngularJS/App/Node/Share/NodeShare.controller.js">
+      <publishTime>07/30/2014 16:27:05</publishTime>
+    </File>
+    <File Include="AngularJS/App/Node/Share/NodeShare.view.html">
+      <publishTime>08/06/2014 15:58:53</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/Add/UserAdd.controller.js">
+      <publishTime>08/07/2014 12:58:23</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/Add/UserAdd.view.html">
+      <publishTime>08/07/2014 13:07:06</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/ChangePassword/ChangePassword.controller.js">
+      <publishTime>07/30/2014 14:52:12</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/ChangePassword/ChangePassword.view.html">
+      <publishTime>08/06/2014 17:08:35</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/Edit/UserEdit.controller.js">
+      <publishTime>08/07/2014 12:58:58</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/Edit/UserEdit.view.html">
+      <publishTime>08/07/2014 13:06:58</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/List/UserList.controller.js">
+      <publishTime>07/30/2014 14:54:30</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/List/UserList.view.html">
+      <publishTime>08/07/2014 13:05:07</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/Login/Login.controller.js">
+      <publishTime>07/30/2014 15:37:30</publishTime>
+    </File>
+    <File Include="AngularJS/App/User/Login/Login.view.html">
+      <publishTime>08/05/2014 21:19:04</publishTime>
+    </File>
+    <File Include="AngularJS/Helpers/authorizationInterceptor.js">
+      <publishTime>07/28/2014 17:27:54</publishTime>
+    </File>
+    <File Include="AngularJS/Helpers/config.js">
+      <publishTime>07/28/2014 15:29:56</publishTime>
+    </File>
+    <File Include="AngularJS/publication.main.js">
+      <publishTime>08/07/2014 13:00:02</publishTime>
+    </File>
+    <File Include="AngularJS/Services/Authentication.service.js">
+      <publishTime>07/30/2014 15:37:59</publishTime>
+    </File>
+    <File Include="AngularJS/Services/Document.service.js">
+      <publishTime>07/30/2014 15:52:24</publishTime>
+    </File>
+    <File Include="AngularJS/Services/Folder.service.js">
+      <publishTime>07/30/2014 15:35:51</publishTime>
+    </File>
+    <File Include="AngularJS/Services/Node.service.js">
+      <publishTime>07/30/2014 15:35:50</publishTime>
+    </File>
+    <File Include="AngularJS/Services/ShareNode.service.js">
+      <publishTime>07/30/2014 15:35:49</publishTime>
+    </File>
+    <File Include="AngularJS/Services/User.service.js">
+      <publishTime>08/05/2014 20:55:47</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>07/29/2014 14:00:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>07/31/2014 14:18:06</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/29/2014 13:59:00</publishTime>
+    </File>
+    <File Include="bin/PublicationsDMS.Web.dll">
+      <publishTime>08/10/2014 10:30:08</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/31/2014 14:18:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>07/31/2014 14:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/31/2014 14:18:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>07/31/2014 14:18:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>07/31/2014 14:18:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>07/29/2014 14:00:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>07/31/2014 14:18:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>07/31/2014 14:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>07/31/2014 14:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>07/31/2014 14:18:16</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>07/29/2014 14:00:36</publishTime>
+    </File>
+    <File Include="Content/angular-loading-bar.css">
+      <publishTime>07/30/2014 16:45:51</publishTime>
+    </File>
+    <File Include="Content/app.css">
+      <publishTime>08/05/2014 21:23:12</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>06/16/2014 15:48:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>06/16/2014 15:48:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/22/2014 17:14:05</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/29/2014 14:00:42</publishTime>
+    </File>
+    <File Include="Scripts/angular-loading-bar.js">
+      <publishTime>07/30/2014 16:46:48</publishTime>
+    </File>
+    <File Include="Scripts/angular-local-storage.min.js">
+      <publishTime>07/28/2014 11:38:19</publishTime>
+    </File>
+    <File Include="Scripts/angular-mocks.js">
+      <publishTime>01/22/2014 13:29:50</publishTime>
+    </File>
+    <File Include="Scripts/angular-route.js">
+      <publishTime>01/22/2014 23:09:05</publishTime>
+    </File>
+    <File Include="Scripts/angular-route.min.js">
+      <publishTime>01/22/2014 23:09:05</publishTime>
+    </File>
+    <File Include="Scripts/angular-route.min.js.map">
+      <publishTime>01/22/2014 23:09:05</publishTime>
+    </File>
+    <File Include="Scripts/angular.js">
+      <publishTime>01/22/2014 13:29:50</publishTime>
+    </File>
+    <File Include="Scripts/angular.min.js">
+      <publishTime>01/22/2014 13:29:50</publishTime>
+    </File>
+    <File Include="Scripts/angular.min.js.map">
+      <publishTime>01/22/2014 13:29:50</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>06/16/2014 15:48:40</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>07/31/2014 15:03:38</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>08/05/2014 20:51:24</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>01/22/2014 22:46:31</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>01/22/2014 11:25:33</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/05/2014 17:31:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

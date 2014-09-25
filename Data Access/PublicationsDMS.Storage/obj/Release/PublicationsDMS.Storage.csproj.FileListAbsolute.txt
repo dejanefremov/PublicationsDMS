@@ -1,0 +1,7 @@
+D:\Projects\PublicationsDMS\PublicationsDMS.Storage\bin\Release\PublicationsDMS.Storage.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Storage\bin\Release\PublicationsDMS.Storage.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Storage\bin\Release\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Storage\bin\Release\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\PublicationsDMS.Storage\obj\Release\PublicationsDMS.Storage.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\PublicationsDMS.Storage\obj\Release\PublicationsDMS.Storage.dll
+D:\Projects\PublicationsDMS\PublicationsDMS.Storage\obj\Release\PublicationsDMS.Storage.pdb

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\Published\PublicationsDMS\2014_08_10\Api</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AutoMapper.Net4.dll">
+      <publishTime>07/29/2014 13:58:49</publishTime>
+    </File>
+    <File Include="bin/Autofac.dll">
+      <publishTime>07/29/2014 13:58:49</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.Mvc.dll">
+      <publishTime>07/29/2014 13:58:49</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.WebApi.dll">
+      <publishTime>07/29/2014 13:58:49</publishTime>
+    </File>
+    <File Include="bin/AutoMapper.dll">
+      <publishTime>07/29/2014 13:58:49</publishTime>
+    </File>
+    <File Include="bin/AutoMapper.Net4.dll">
+      <publishTime>07/29/2014 13:58:49</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>07/29/2014 12:54:45</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>07/29/2014 12:54:45</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>07/29/2014 13:58:50</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.dll">
+      <publishTime>07/29/2014 13:59:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>07/29/2014 13:59:01</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>07/29/2014 13:59:01</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/29/2014 13:59:00</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>07/29/2014 12:54:48</publishTime>
+    </File>
+    <File Include="bin/PublicationsDMS.Domain.dll">
+      <publishTime>08/10/2014 10:30:47</publishTime>
+    </File>
+    <File Include="bin/PublicationsDMS.Entities.dll">
+      <publishTime>08/10/2014 10:30:47</publishTime>
+    </File>
+    <File Include="bin/PublicationsDMS.Search.dll">
+      <publishTime>08/10/2014 10:30:47</publishTime>
+    </File>
+    <File Include="bin/PublicationsDMS.Services.dll">
+      <publishTime>08/10/2014 10:30:48</publishTime>
+    </File>
+    <File Include="bin/PublicationsDMS.Storage.dll">
+      <publishTime>08/10/2014 10:30:47</publishTime>
+    </File>
+    <File Include="bin/PublicationsDMS.Web.Api.dll">
+      <publishTime>08/10/2014 10:30:49</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/29/2014 13:59:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>07/29/2014 13:59:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>07/29/2014 13:03:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>07/29/2014 12:54:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>07/29/2014 13:59:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>07/29/2014 13:59:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>07/29/2014 13:03:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>07/29/2014 13:03:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>07/29/2014 13:03:02</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/22/2014 16:37:41</publishTime>
+    </File>
+    <File Include="LuceneIndex/segments.gen">
+      <publishTime>08/08/2014 14:40:33</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/29/2014 13:03:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/05/2014 17:32:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

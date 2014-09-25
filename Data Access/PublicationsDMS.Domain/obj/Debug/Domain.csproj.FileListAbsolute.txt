@@ -1,0 +1,15 @@
+D:\Projects\PublicationsDMS\Domain\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\Domain.dll.config
+D:\Projects\PublicationsDMS\Domain\bin\Debug\Domain.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\Domain.pdb
+D:\Projects\PublicationsDMS\Domain\bin\Debug\AutoMapper.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\Entities.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\EntityFramework.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PublicationsDMS\Domain\bin\Debug\Entities.pdb
+D:\Projects\PublicationsDMS\Domain\bin\Debug\AutoMapper.xml
+D:\Projects\PublicationsDMS\Domain\bin\Debug\EntityFramework.xml
+D:\Projects\PublicationsDMS\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PublicationsDMS\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\Domain\obj\Debug\Domain.dll
+D:\Projects\PublicationsDMS\Domain\obj\Debug\Domain.pdb

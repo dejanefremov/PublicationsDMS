@@ -1,0 +1,15 @@
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\AutoMapper.Net4.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\PublicationsDMS.Domain.dll.config
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\PublicationsDMS.Domain.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\PublicationsDMS.Domain.pdb
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\AutoMapper.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\EntityFramework.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\PublicationsDMS.Entities.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\PublicationsDMS.Entities.pdb
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\AutoMapper.xml
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\EntityFramework.xml
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\obj\Release\PublicationsDMS.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\obj\Release\PublicationsDMS.Domain.dll
+D:\Projects\PublicationsDMS\Data Access\PublicationsDMS.Domain\obj\Release\PublicationsDMS.Domain.pdb
